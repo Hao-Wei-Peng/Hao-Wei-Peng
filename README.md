@@ -1,4 +1,4 @@
-# :running: Peng, Hao Wei (Eric) 👋
+# :guardsman: Peng, Hao Wei (Eric) :running: 
 
 <!--
 **Hao-Wei-Peng/Hao-Wei-Peng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

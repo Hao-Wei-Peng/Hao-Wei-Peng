@@ -2,6 +2,7 @@
 
 **`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 
+
 1️⃣: I’m a freshman who have completed the University College London (UCL) data science and machine learning master degree in the recent, and with 4 years National Chung  Hsing University (NCHU) computer science bachelor degree. 
 
 2️⃣: Until now, I have deeply investigated, researched and implemented a lot of projects that relate to software development, machine learning algorithms and deep learning models. 

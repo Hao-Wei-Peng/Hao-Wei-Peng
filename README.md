@@ -1,4 +1,4 @@
-# :guardsman: Peng, Hao Wei (Eric) :swimmer: 
+# :swimmer: Peng, Hao Wei (Eric) :guardsman: 
 
 **`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 

@@ -25,9 +25,6 @@
 
 
 <!-- SOCIAL BADGES SECTION -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-
 <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -40,12 +37,12 @@
   
   <a href="https://github.com/Hao-Wei-Peng?tab=followers">
          <img alt="followers" title="Followers other on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hao-Wei-Peng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
 </p>
 
 
 
-
+<!-- PROGRAMMING LANGUAGES -->
+## 🛠️ Tools And Languages
 
     
   

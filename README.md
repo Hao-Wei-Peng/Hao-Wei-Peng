@@ -3,7 +3,7 @@
 **`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 
 <h3 align="center">
-  Welcome to Eric Peng's Profile!
+  Welcome to Eric Peng's Profile Website!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 

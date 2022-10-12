@@ -39,7 +39,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hao-Wei-Peng?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
   <a href="https://github.com/Hao-Wei-Peng?tab=following">
-         <img alt="followings" title="Following other on Github" src="https://custom-icon-badges.demolab.com/github/following/Hao-Wei-Peng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=blue"/></a>
+         <img alt="followers" title="Followers other on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hao-Wei-Peng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
 </p>
 

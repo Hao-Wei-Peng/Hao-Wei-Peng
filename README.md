@@ -1,6 +1,6 @@
 # :guardsman: Peng, Hao Wei (Eric) :running: 
 
-**`Machine Learning nthusiast (Learner/Developer/Creator/Designer)`**
+**`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 
 <!--
 **Hao-Wei-Peng/Hao-Wei-Peng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

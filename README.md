@@ -48,7 +48,7 @@
 
 
 <!-- CONNECT WITH ME -->
-## Connect with Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me 
 
 <p align="left">
 <a href=https://www.linkedin.com/in/hao-wei-eric-peng-38a7311a6/?locale=en_US><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

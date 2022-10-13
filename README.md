@@ -61,10 +61,10 @@
 <br />
 
 
-## :chart_with_upwards_trend: Streak stats
+## :chart_with_upwards_trend: Streak Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/Hao-Wei-Peng">
     <img title="Trend of Streak of My GitHub Website" alt="EricPeng's streak" src="https://streak-stats.demolab.com?user=EricPeng&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j&fire=EFFF23&ring=DD0000&currStreakNum=FFCFCE&background=000002" />
   </a>
   <p align="center">:chart_with_upwards_trend: Trend of Streak of My GitHub Website </p>

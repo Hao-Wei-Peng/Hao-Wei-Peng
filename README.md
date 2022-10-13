@@ -84,7 +84,7 @@
 <details> 
   <summary> GitHub Profile Statistics</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="192px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Statistics" src="https://github-readme-stats.vercel.app/api/?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="192px" /></a>
 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Wei-Peng&layout=compact" height="192px" /></a>
   

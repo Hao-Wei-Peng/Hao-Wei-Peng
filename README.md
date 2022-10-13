@@ -19,7 +19,7 @@
 
 <p align="center">
 <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/coding.gif" alt="unclecoding"  width="180" height="210"/>
-<img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/python.gif" alt="mushcoding"  width="20" height="180"/>
+<img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/python.gif" alt="mushcoding"  width="260" height="180"/>
 </p>
 
 

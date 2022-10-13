@@ -86,7 +86,7 @@
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift" /></a>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Wei-Peng&langs_count=8&layout=compact&theme=swift" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Wei-Peng&langs_count=8&layout=compact&theme=react" /></a>
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

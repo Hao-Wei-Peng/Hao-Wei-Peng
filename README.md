@@ -47,7 +47,7 @@
 
 
 <!-- PROGRAMMING LANGUAGES -->
-## 🛠️ Tools and Languages
+## :computer: Tools and Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JupyterNotebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />       
@@ -64,7 +64,7 @@
 
 
 <!-- STATISTICS -->
-## :chart_with_upwards_trend: Statistics
+## :bar_chart: Statistics
 ![Peng, Hao Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift)
 
 <!--

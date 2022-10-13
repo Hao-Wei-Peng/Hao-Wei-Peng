@@ -2,7 +2,7 @@
 
 
 
-<p align="center" font-family="calibri">
+<p align="center" font-family:"calibri">
 Machine Learning Enthusiast (Learner/Developer/Creator/Designer)
 </p>
 

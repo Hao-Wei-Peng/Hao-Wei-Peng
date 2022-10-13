@@ -46,6 +46,18 @@
 
 
 
+
+<!-- CONNECT WITH ME -->
+## Connect with Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<p align="left">
+<a href=https://www.linkedin.com/in/hao-wei-eric-peng-38a7311a6/?locale=en_US><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="eric.hw.peng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+
+
+
 <!-- PROGRAMMING LANGUAGES -->
 ## :computer: Tools and Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -67,15 +79,6 @@
 ## :bar_chart: Statistics
 ![Peng, Hao Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift)
 
-<!--
-<p align="center">
-  <a href="https://github.com/Hao-Wei-Peng">
-    <img title="Streak Statistics of My GitHub Website" alt="EricPeng's streak" src="https://frozen-shelf-10179.herokuapp.com?user=EricPeng&theme=highcontrast&date_format=%5BY%20%5DM%20j&fire=FFF800&ring=FF2300&currStreakNum=FFC9C9&background=000000)](https://git.io/streak-stats" />
-  </a>
-  <p align="center">:chart_with_upwards_trend: Streak Statistics of My GitHub Website </p>
-</p>
--->
-    
   
 
 

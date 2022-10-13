@@ -28,6 +28,8 @@
 
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
 <!-- SOCIAL BADGES SECTION -->
 <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">

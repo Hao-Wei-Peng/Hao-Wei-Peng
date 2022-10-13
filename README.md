@@ -28,7 +28,6 @@
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <!-- SOCIAL BADGES SECTION -->
 <p align="center">
@@ -49,6 +48,8 @@
 
 
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <!-- CONNECT WITH ME -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/phone.gif" width="40"> Connect with Me 
 
@@ -60,6 +61,8 @@
 
 
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <!-- PROGRAMMING LANGUAGES -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/computer.gif" width="40"> Tools and Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -77,6 +80,8 @@
 
 
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <!-- STATISTICS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/analysis.gif" width="40"> Statistics
 ![Peng, Hao Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift)

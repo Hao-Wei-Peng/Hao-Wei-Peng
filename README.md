@@ -48,6 +48,8 @@
 
 
 
+![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
+
 <!-- CONNECT WITH ME -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/phone.gif" width="40"> Connect with Me 
 

@@ -1,8 +1,10 @@
 # :swimmer: Peng, Hao Wei (Eric) :guardsman: 
 
-**`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 
 
+<p align="center">
+Machine Learning Enthusiast (Learner/Developer/Creator/Designer)
+</p>
 
 <!-- WELCOME WEBSITE -->
 <h3 align="center">

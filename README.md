@@ -65,9 +65,9 @@
 
 <p align="center">
   <a href="https://github.com/Hao-Wei-Peng">
-    <img title="Trend of Streak of My GitHub Website" alt="EricPeng's streak" src="https://frozen-shelf-10179.herokuapp.com?user=EricPeng&theme=highcontrast&date_format=%5BY%20%5DM%20j&fire=FFF800&ring=FF2300&currStreakNum=FFC9C9&background=000000)](https://git.io/streak-stats" />
+    <img title="Streak Statistics of My GitHub Website" alt="EricPeng's streak" src="https://frozen-shelf-10179.herokuapp.com?user=EricPeng&theme=highcontrast&date_format=%5BY%20%5DM%20j&fire=FFF800&ring=FF2300&currStreakNum=FFC9C9&background=000000)](https://git.io/streak-stats" />
   </a>
-  <p align="center">:chart_with_upwards_trend: Trend of Streak of My GitHub Website </p>
+  <p align="center">:chart_with_upwards_trend: Streak Statistics of My GitHub Website </p>
 </p>
 
     

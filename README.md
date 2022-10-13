@@ -76,7 +76,7 @@
 
 
 <!-- STATISTICS -->
-## :bar_chart: Statistics
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/chart.gif" width="40"> Statistics
 ![Peng, Hao Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift)
 
   

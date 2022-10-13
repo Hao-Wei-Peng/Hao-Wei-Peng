@@ -82,9 +82,9 @@
 <!-- STATISTICS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/analysis.gif" width="40"> Statistics
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary> GitHub Profile Statistics</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="192px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="192px" /></a>
 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Wei-Peng&langs_count=8&layout=compact&theme=swift&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" /></a>
   

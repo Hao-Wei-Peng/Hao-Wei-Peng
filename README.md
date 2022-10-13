@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/giphy.gif" alt="Coding"  width="100" height="100"/>
+<img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/giphy.gif" alt="Coding"  width="250" height="250"/>
 </p>
 
 

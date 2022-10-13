@@ -80,7 +80,7 @@
 
 
 <!-- STATISTICS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/analysis.gif" width="40"> Statistics
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> Statistics
 <details> 
   <summary> GitHub Profile Statistics</summary>
   <br/>

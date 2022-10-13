@@ -18,6 +18,7 @@
 </p>
 
 
+![image](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/giphy.gif)
 
 <!-- PERSONAL INTRO -->
 :notebook_with_decorative_cover: I’m a freshman who have completed the [University College London (UCL)](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-machine-learning-msc) data science and machine learning master degree in the recent, and with 4 years [National Chung  Hsing University (NCHU)](http://www.cs.nchu.edu.tw/v4/en/) computer science bachelor degree. Until now, I have deeply investigated, researched and implemented a lot of projects that relate to :fire: machine learning algorithms (ML), :fire: deep learning models (DL) and :fire: software development. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. In the world of machine learning and deep learning, the innovative technologies are created every day. I am always enthusiasm for learning and utilizing these technologies in the real-life. I hope to explore more possibilities in these field and satisfy my sense of achievement continuously. 

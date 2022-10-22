@@ -91,9 +91,9 @@
 </details>
 
 
-
-<!-- <br>
-<img src="https://raw.githubusercontent.com/Hao-Wei-Peng/Hao-Wei-Peng/output/github-contribution-grid-snake-dark.svg"> -->
+<!-- SNAKE CONTRIBUTIONS -->
+## Contributions
+![snake gif](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.gif)
 
 
 

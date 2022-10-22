@@ -93,7 +93,8 @@
 
 <!-- SNAKE CONTRIBUTIONS -->
 ## Contributions
-![snake gif](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.gif) -->
+![Snake animation](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.svg)
 
 
 

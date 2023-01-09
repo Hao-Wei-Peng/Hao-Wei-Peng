@@ -78,19 +78,6 @@
 
 
 
-<!-- STATISTICS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> Statistics
-<details> 
-  <summary> :fire: GitHub Profile Statistics</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Statistics" src="https://github-readme-stats.vercel.app/api/?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="180px" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Wei-Peng&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" width="450px" height="180px" /></a>
-   
-  <br/>
-  <b>:notebook:</b> Top languages is a main language that I use in my projects or works and relate to my experience and skill level.
-</details>
-
-
 <!-- SNAKE CONTRIBUTIONS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions
 ![Snake animation](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.svg)

@@ -91,6 +91,7 @@
   <br/>
 </details>
 
+---
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hao-Wei-Peng&theme=violet-punch" width="550">
 
 :notebook: Top languages is a main language that I use in my projects or works and relate to my experience and skill level.

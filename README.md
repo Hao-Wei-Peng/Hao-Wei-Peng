@@ -97,9 +97,12 @@
 :notebook: Top languages is a main language that I use in my projects or works and relate to my experience and skill level.
 
 
-
 <!-- LINES -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="450px">
+
+
+
+
 
 
 

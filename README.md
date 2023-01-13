@@ -103,6 +103,37 @@
 
 
 
+<!-- GitHub FOLLOWERS -->
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> My Followers
+<details>
+<summary> Documents </summary>
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChengTsungPao">
+        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="ChengTsungPao"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChengTsungPao">ChengTsungPao</a>
+    </td>
+    
+      
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+</details>
+
+---
+
+
+
+
+
+
+
 <!-- SNAKE CONTRIBUTIONS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions
 ![Snake animation](https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/output/github-contribution-grid-snake.svg)

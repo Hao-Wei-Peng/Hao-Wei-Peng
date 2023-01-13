@@ -104,7 +104,7 @@
 
 
 <!-- GitHub FOLLOWERS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> My Followers
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> My Followers
 <details>
 <summary> Documents </summary>
 

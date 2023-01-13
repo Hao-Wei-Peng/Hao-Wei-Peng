@@ -109,7 +109,7 @@
 <!-- GitHub FOLLOWERS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> My Followers
 <details>
-<summary> Personal Websites </summary>
+<summary> :information_desk_person: Personal Websites </summary>
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -120,11 +120,32 @@
       </a>
       <br />
       <a href="https://github.com/ChengTsungPao">ChengTsungPao</a>
-    </td>
+    </td> 
+</tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alicia7mm">
+        <img src="https://avatars.githubusercontent.com/u/60660031?v=4" width="100px;" alt="alicia7mm"/>
+      </a>
+      <br />
+      <a href="https://github.com/alicia7mm">alicia7mm</a>
+    </td> 
     
-      
-  </tr>
+</tr>
 </table>
+<!--ENG_SECTION:bottom-followers-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <!--END_SECTION:top-followers-->
 
 </details>

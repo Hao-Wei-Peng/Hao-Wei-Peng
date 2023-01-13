@@ -116,7 +116,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ChengTsungPao">
-        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="ChengTsungPao"/>
+        <img src="https://avatars.githubusercontent.com/u/46835017?v=4" width="100px;" alt="ChengTsungPao"/>
       </a>
       <br />
       <a href="https://github.com/ChengTsungPao">ChengTsungPao</a>

@@ -2,7 +2,6 @@
 
 **`Machine Learning Enthusiast (Learner/Developer/Creator/Designer)`**
 
-
 <!-- WELCOME WEBSITE -->
 <h3 align="center">
   Welcome to Eric Peng's Profile Website!

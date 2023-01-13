@@ -47,8 +47,6 @@
 
 
 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
-
 <!-- CONNECT WITH ME -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/phone.gif" width="40"> Connect with Me 
 
@@ -77,6 +75,12 @@
 <br />
 
 
+<!-- LINES -->
+<br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="450px">
+
+
+
 <!-- STATISTICS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> Statistics
 <details> 
@@ -91,6 +95,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hao-Wei-Peng&theme=violet-punch" width="550">
 
 :notebook: Top languages is a main language that I use in my projects or works and relate to my experience and skill level.
+
+
+
+<!-- LINES -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="450px">
+
+
 
 <!-- SNAKE CONTRIBUTIONS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions

@@ -103,9 +103,6 @@
 
 
 
-
-
-
 <!-- GitHub FOLLOWERS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> My Followers
 <details>
@@ -134,19 +131,6 @@
 </tr>
 </table>
 <!--ENG_SECTION:bottom-followers-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<!--END_SECTION:top-followers-->
 
 </details>
 
@@ -154,6 +138,18 @@
 
 
 
+
+
+<!-- FAVORITE MUSICS -->
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> Favorite Musics
+<details>
+<summary> :notes: Albums </summary>
+  
+  
+
+</details>
+
+---
 
 
 

@@ -144,9 +144,9 @@
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/music.gif" width="40"> Favorite Musics
 <details>
 <summary> :notes: Albums </summary>
-  
-  
+<p align="center"><a href="https://www.last.fm/music/Taylor+Swift/Red+(Taylor%27s+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b7a28849d6a3b673f49873414cb03a8.jpg" title="Taylor Swift - Red"></a> 
 
+</p>
 </details>
 
 ---

@@ -144,7 +144,7 @@
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/music.gif" width="40"> Favorite Musics
 <details>
 <summary> :dvd: Foreign Albums </summary>
-<p align="center"><a href="https://www.last.fm/music/Taylor+Swift/Red+(Taylor%27s+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b7a28849d6a3b673f49873414cb03a8.jpg" title="Taylor Swift - Red"></a> <a href="https://www.last.fm/music/Charlie+Puth/CHARLIE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg" title="Charlie Puth - CHARLIE"></a>
+<p align="center"><a href="https://www.last.fm/music/Taylor+Swift/Red+(Taylor%27s+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b7a28849d6a3b673f49873414cb03a8.jpg" title="Taylor Swift - Red"></a> <a href="https://www.last.fm/music/Charlie+Puth/CHARLIE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg" title="Charlie Puth - CHARLIE"></a> <a href="https://www.last.fm/music/NewJeans/NewJeans+1st+EP+%27New+Jeans%27"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb43ff27cf3e528ba0ed6306d52139a5.jpg" title="NewJeans - NewJeans 1st EP 'New Jeans'"></a>
 
 </p>
 </details>

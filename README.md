@@ -161,13 +161,7 @@
 
 <details>
 <summary> :musical_note: Chinese Albums </summary>
-<p align="center"><a href="https://www.last.fm/music/%E8%8E%AB%E5%AE%B0%E7%BE%8A/%E5%B9%BB%E6%83%B3%E6%9B%B2"><img src="https://lastfm.freetls.fastly.net/i/u/64s/70d65c43e9afbe9eccf6ac7a2740bacf.jpg" title="莫宰羊 - 幻想曲"></a>
-  
-  
-  
-  
-  
-  
+<p align="center"><a href="https://www.last.fm/music/%E6%B1%9F%E8%95%99/%E8%97%9D%E7%95%8C%E4%BA%BA%E7%94%9F"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b3aead017f142d61a484d5c1a15097f.jpg" title="江蕙 - 藝界人生"> <a href="https://www.last.fm/music/%E9%99%B3%E5%A5%95%E8%BF%85/%E8%AA%8D%E4%BA%86%E5%90%A7"><img src="https://lastfm.freetls.fastly.net/i/u/64s/41e5e4691629eff87f7c683aab4c19c3.jpg" title="陳奕迅 - 認了吧"></a> <a href="https://www.last.fm/music/%E5%91%A8%E8%88%88%E5%93%B2/%E5%A6%82%E6%9E%9C%E9%9B%A8%E4%B9%8B%E5%BE%8C"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6d59fec512772af980d3c484419abd7b.jpg" title="周興哲 - 如果雨之後"></a> <a href="https://www.last.fm/music/%E5%BE%90%E4%BD%B3%E7%91%A9/%E5%B0%8B%E4%BA%BA%E5%95%9F%E4%BA%8B"><img src="https://lastfm.freetls.fastly.net/i/u/64s/89d54a3786cf4cbcccb8b464f98933e6.jpg" title="徐佳瑩 - 尋人啟事"></a> <a href="https://www.last.fm/music/%E5%8E%9F%E5%AD%90%E9%82%A6%E5%A6%AE/%E5%AD%A4%E5%96%AE%E6%9C%83%E6%B6%88%E5%A4%B1%E9%9B%A2%E9%96%8B%E4%B8%8D%E8%A6%8B"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6be17567ccb13b2f93ac269fd0408277.jpg" title="原子邦妮 - 孤單會消失離開不見"></a> <a href="https://www.last.fm/music/%E5%91%8A%E4%BA%94%E4%BA%BA/%E9%81%8B%E6%B0%A3%E4%BE%86%E5%BE%97%E8%8B%A5%E6%9C%89%E4%BC%BC%E7%84%A1"><img src="https://lastfm.freetls.fastly.net/i/u/64s/da267cdde0831082c2b26a9f2bbcf823.jpg" title="告五人 - 運氣來得若有似無"></a> <a href="https://www.last.fm/music/%E8%8E%AB%E5%AE%B0%E7%BE%8A/%E5%B9%BB%E6%83%B3%E6%9B%B2"><img src="https://lastfm.freetls.fastly.net/i/u/64s/70d65c43e9afbe9eccf6ac7a2740bacf.jpg" title="莫宰羊 - 幻想曲"></a> <a href="https://www.last.fm/music/%E5%AD%AB%E7%9B%9B%E5%B8%8C/Between"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d6ac840a6c7484298116e07e4dd12355.jpg" title="孫盛希 - Between"></a> <a href="https://www.last.fm/music/%E5%B0%8F%E5%AE%87-%E5%AE%8B%E5%BF%B5%E5%AE%87/%E5%90%8C%E5%9C%A8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5954f652ecace465a171e8178f54389d.jpg" title="小宇-宋念宇 - 同在"></a> <a href="https://www.last.fm/music/%E6%9E%97%E4%BF%8A%E5%82%91/%E5%A5%B9%E8%AA%AA"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bf469c34ea85432a99dbd54958c4e3db.jpg" title="林俊傑 - 她說"></a> <a href="https://www.last.fm/music/Trash/Holy+Trip!"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1ea3379358af2fedca82b30b2fd2f0a7.jpg" title="Trash - Holy Trip!"></a> <a href="https://www.last.fm/music/F.I.R./%E6%84%9B%E2%80%A7%E6%AD%8C%E5%A7%AC"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0b3c9e4e7cb0f9b044e67ebbd90d997e.jpg" title="F.I.R. - 愛‧歌姬"></a>
 </p> 
 </details>
 

@@ -141,7 +141,7 @@
 
 
 <!-- FAVORITE MUSICS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> Favorite Musics
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/music.gif" width="40"> Favorite Musics
 <details>
 <summary> :notes: Albums </summary>
   

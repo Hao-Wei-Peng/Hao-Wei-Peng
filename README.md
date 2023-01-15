@@ -117,7 +117,14 @@
       </a>
       <br />
       <a href="https://github.com/ChengTsungPao">ChengTsungPao</a>
-    </td> 
+    </td>
+    <td align="center">
+      <a href="https://github.com/juceyj">
+        <img src="https://avatars.githubusercontent.com/u/53820204?v=4" width="100px;" alt="Jiayi Liu"/>
+      </a>
+      <br />
+      <a href="https://github.com/juceyj">Jiayi Liu</a>
+    </td>
 </tr>
   <tr>
     <td align="center">

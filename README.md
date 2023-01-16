@@ -35,7 +35,7 @@
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  <a href="https://github.com/Hao-Wei-Peng/Simple-View-Counter"> -->
   
-  <a href="https://github.com/Hao-Wei-Peng?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hao-Wei-Peng?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
   <a href="https://github.com/Hao-Wei-Peng?tab=followers">

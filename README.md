@@ -136,10 +136,10 @@
     </td> 
     <td align="center">
       <a href="https://github.com/Weile0409">
-        <img src="https://avatars.githubusercontent.com/u/53820204?v=4" width="100px;" alt="Weile0409"/>
+        <img src="https://avatars.githubusercontent.com/u/27005037?v=4" width="100px;" alt="Weile0409"/>
       </a>
       <br />
-      <a href="https://github.com/Weile0409">Weile0409</a>
+      <a href="https://github.com/Weile0409">Wei Le</a>
     </td>
     
 </tr>

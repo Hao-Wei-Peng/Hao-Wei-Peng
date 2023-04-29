@@ -135,11 +135,11 @@
       <a href="https://github.com/alicia7mm">alicia7mm</a>
     </td> 
     <td align="center">
-      <a href="https://github.com/juceyj">
-        <img src="https://avatars.githubusercontent.com/u/53820204?v=4" width="100px;" alt="Jiayi Liu"/>
+      <a href="https://github.com/Weile0409">
+        <img src="https://avatars.githubusercontent.com/u/53820204?v=4" width="100px;" alt="Weile0409"/>
       </a>
       <br />
-      <a href="https://github.com/juceyj">Jiayi Liu</a>
+      <a href="https://github.com/Weile0409">Weile0409</a>
     </td>
     
 </tr>

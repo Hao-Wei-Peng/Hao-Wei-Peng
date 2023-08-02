@@ -86,7 +86,7 @@
   <summary> :fire: GitHub Profile Statistics</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Github Statistics" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Hao-Wei-Peng&show_icons=true&theme=swift&hide_border=true" height="180px" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hao-Wei-Peng&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" width="450px" height="180px" /></a>
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Peng, Hao Wei's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hao-Wei-Peng&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" width="450px" height="180px" /></a> -->
    
   <br/>
 </details>

@@ -179,11 +179,7 @@
 
 <!-- SNAKE CONTRIBUTIONS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/Hao-Wei-Peng/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 All of the Portfolio in the Recent ~
 

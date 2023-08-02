@@ -179,7 +179,7 @@
 
 <!-- SNAKE CONTRIBUTIONS -->
 ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions
-![](https://raw.githubusercontent.com/Hao-Wei-Peng/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Hao-Wei-Peng/Hao-Wei-Peng/output/github-contribution-grid-snake.svg)
 
 All of the Portfolio in the Recent ~
 

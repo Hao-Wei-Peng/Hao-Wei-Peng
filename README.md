@@ -51,7 +51,7 @@
 
 ## :phone: Connect with Me 
 <p align="left">
-<a href=https://www.linkedin.com/in/hao-wei-eric-peng-38a7311a6/?locale=en_US><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href=https://www.linkedin.com/in/hao-wei-peng-38a7311a6/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:eric.hw.peng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 </br>

@@ -58,7 +58,7 @@
 
 
 <!-- PROGRAMMING LANGUAGES -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/computer.gif" width="40"> Tools and Languages
+## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/computer.gif" width="40"> Languages and Tools
 <!--
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JupyterNotebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />

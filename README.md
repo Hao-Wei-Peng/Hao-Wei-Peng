@@ -47,8 +47,9 @@
 
 
 <!-- CONNECT WITH ME -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/phone.gif" width="40"> Connect with Me 
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/phone.gif" width="40"> -->
 
+## :phone: Connect with Me 
 <p align="left">
 <a href=https://www.linkedin.com/in/hao-wei-eric-peng-38a7311a6/?locale=en_US><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:eric.hw.peng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -58,7 +59,9 @@
 
 
 <!-- PROGRAMMING LANGUAGES -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/computer.gif" width="40"> Languages and Tools
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/computer.gif" width="40"> -->
+
+## ⚒️ Languages and Tools
 <!--
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JupyterNotebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -87,7 +90,9 @@
 
 
 <!-- STATISTICS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> Statistics
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/statistic_chart.gif" width="40"> -->
+
+## ⚡ Statistics
 <details> 
   <summary> :fire: GitHub Profile Statistics</summary>
   <br/>
@@ -110,7 +115,9 @@
 
 
 <!-- GitHub FOLLOWERS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> My Followers
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/friend.gif" width="40"> --> 
+
+## :family: My Followers
 <details>
 <summary> :information_desk_person: Personal Websites </summary>
 
@@ -161,7 +168,9 @@
 
 
 <!-- FAVORITE MUSICS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/music.gif" width="40"> Current Listening
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/music.gif" width="40"> -->
+
+## :headphones: Current Listening
 <details>
 <summary> :dvd: Foreign Albums </summary>
 <p align="center"><a href="https://www.last.fm/music/The+Weeknd/Starboy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2eff583c50e9ebe32857ca8bedbd25bd.jpg" title="The Weeknd - Starboy"></a> <a href="https://www.last.fm/music/Ed+Sheeran/No.6+Collaborations+Project"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3ccb1f5d6891d9810e2a1e6e9dc3338e.jpg#3ccb1f5d6891d9810e2a1e6e9dc3338e" title="Ed Sheeran - No.6 Collaborations Project"></a> <a href="https://www.last.fm/music/Taylor+Swift/Red+(Taylor%27s+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b7a28849d6a3b673f49873414cb03a8.jpg" title="Taylor Swift - Red"></a> <a href="https://www.last.fm/music/Charlie+Puth/CHARLIE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg" title="Charlie Puth - CHARLIE"></a> <a href="https://www.last.fm/music/Bruno+Mars/Doo-Wops+&+Hooligans"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f7670d1bcac523562726c1774f45285f.jpg" title="Bruno Mars - Doo-Wops & Hooligans"></a> <a href="https://www.last.fm/music/David+Archuleta/David+Archuleta"><img src="https://lastfm.freetls.fastly.net/i/u/64s/691843351111ec4b74a62fb446f93b86.jpg" title="David Archuleta - David Archuleta"></a> <a href="https://www.last.fm/music/Coldplay/A+Head+Full+of+Dreams"><img src="https://lastfm.freetls.fastly.net/i/u/64s/174d490504bf25ced4880e8fd54ddb1c.jpg" title="Coldplay - A Head Full of Dreams"></a> <a href="https://www.last.fm/music/Imagine+Dragons/Night+Visions"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ecae82853b784726c7e2c4e2ba55a4fd.jpg" title="Imagine Dragons - Night Visions"></a> <a href="https://www.last.fm/music/NewJeans/NewJeans+1st+EP+%27New+Jeans%27"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb43ff27cf3e528ba0ed6306d52139a5.jpg" title="NewJeans - NewJeans 1st EP 'New Jeans'"></a> <a href="https://www.last.fm/music/LE+SSERAFIM/FEARLESS"><img src="https://lastfm.freetls.fastly.net/i/u/64s/57bb7bc0affcae6892865a7f19828e4b.jpg" title="LE SSERAFIM - FEARLESS"></a> <a href="https://www.last.fm/music/Tyler+Shaw/Tyler+Shaw"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b0d367f32c392f148ff0bbf134c6a789.jpg" title="Tyler Shaw - Tyler Shaw"></a> <a href="https://www.last.fm/music/Lady+Antebellum/Need+You+Now"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e693b627d4bc40c6a149883ca8e69d4d.jpg" title="Lady Antebellum - Need You Now"></a>
@@ -184,7 +193,9 @@
 
 
 <!-- SNAKE CONTRIBUTIONS -->
-## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> Contributions
+<!-- ## <img src="https://github.com/Hao-Wei-Peng/Hao-Wei-Peng/blob/main/snake.gif" width="40"> -->
+
+## 🐍 Contributions
 <!-- ![](https://raw.githubusercontent.com/Hao-Wei-Peng/Hao-Wei-Peng/output/github-contribution-grid-snake.svg) -->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hao-Wei-Peng/Hao-Wei-Peng/output/github-contribution-grid-snake.svg" />
 
